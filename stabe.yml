@@ -1,9 +1,7 @@
 params:
   - name: name
-    displayName: Your name
     required: true
   - name: background_color
-    displayName: Background color
     description: "Website background color"
     required: false
     default: "#e5f4ee"
