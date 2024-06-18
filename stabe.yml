@@ -1,7 +1,8 @@
 params:
   - name: name
+    description: Your name goes here. Generate website will welcome you!
     required: true
   - name: background_color
-    description: "Website background color"
+    description: "Website's background color"
     required: false
     default: "#e5f4ee"
