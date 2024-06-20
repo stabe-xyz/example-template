@@ -8,5 +8,5 @@ Template parameters are defined in [stabe.yml file](./stabe.yml)
 
 |Parameter name  | Description   | 
 |---|---|
-| {{ name }}  | Name of the user  |
-| {{ background_color }}  | Website's background color  |
+| stabe.name | Name of the user  |
+| stabe.background_color  | Website's background color  |
